@@ -2,7 +2,7 @@ const config = {
 	//网页元数据
 	metaData: {
 		title: 'Leleo的个人主页🎉',
-		description: '欢迎来到Leleo的奇妙世界！',
+		description: '欢迎来到bello的奇妙世界！',
 		keywords: 'Leleo,leleo,个人主页,个人网站',
 		icon: '/favicon.ico'   //网页图标，支持外链
 	},
